@@ -17,3 +17,6 @@ Because the Linux native build of Metro Last Light and Metro 2033 have been aban
 chmod +x backup.sh # If necessary
 bash backup.sh
 ```
+
+## TODO
+- Add resotre save into Proton
